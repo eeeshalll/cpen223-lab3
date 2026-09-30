@@ -5,7 +5,8 @@
 using System;
 using System.Collections.Generic;
 
-Console.WriteLine("CPEN223 Lab 3");
+string userName = "Eeshal Fatima";
+Console.WriteLine($"CPEN223 Lab 3 for user: {userName}");
 
 //Testing: Write some test cases to test well all methods you are to implement    
 //         This is to demonstrates what test cases you have considered
